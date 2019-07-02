@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{d3d70e36-b3cb-4cc1-b898-f47c9db6ef3c}">
+        <property name="assetPath">
+            <value>Gsp_hP_p_L_A#6.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>8.6427891156462593</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{3d6c9fb7-3f56-47ff-a9ed-235d50d6a425}</destination>
+        </relationship>
+    </object>
+</objects>

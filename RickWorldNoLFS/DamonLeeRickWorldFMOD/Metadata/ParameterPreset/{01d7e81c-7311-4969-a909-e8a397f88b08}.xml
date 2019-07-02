@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ParameterPreset" id="{01d7e81c-7311-4969-a909-e8a397f88b08}">
+        <property name="name">
+            <value>SunPos</value>
+        </property>
+        <relationship name="folder">
+            <destination>{e3cbf7df-0ed1-4161-b49d-4e0dbf5e152d}</destination>
+        </relationship>
+        <relationship name="parameter">
+            <destination>{0e9983b7-bc87-4fd9-8c92-05c9315d7f5b}</destination>
+        </relationship>
+    </object>
+    <object class="GameParameter" id="{0e9983b7-bc87-4fd9-8c92-05c9315d7f5b}">
+        <property name="minimum">
+            <value>-100</value>
+        </property>
+        <property name="maximum">
+            <value>100</value>
+        </property>
+        <property name="initialValue">
+            <value>0</value>
+        </property>
+    </object>
+</objects>

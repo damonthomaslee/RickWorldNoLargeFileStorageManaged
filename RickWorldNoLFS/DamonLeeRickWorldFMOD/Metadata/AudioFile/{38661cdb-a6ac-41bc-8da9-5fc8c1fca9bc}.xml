@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{38661cdb-a6ac-41bc-8da9-5fc8c1fca9bc}">
+        <property name="assetPath">
+            <value>CHRO-bow_A7.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>10.872154195011339</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{3d6c9fb7-3f56-47ff-a9ed-235d50d6a425}</destination>
+        </relationship>
+    </object>
+</objects>

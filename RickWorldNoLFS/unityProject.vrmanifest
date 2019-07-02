@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.creativecodingprojektmichaelgreß.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Student\\Desktop\\Creative-Coding-VR\\Creative Coding Projekt Michael Greß\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Creative Coding Projekt Michael Greß [Testing]"
+        }
+      }
+    }
+  ]
+}

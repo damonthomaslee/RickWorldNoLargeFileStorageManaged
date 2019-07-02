@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: 86fdeea3e7d5f47e9a68f1922cdd2ce9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bildschirm
+    100002: Fell
+    100004: Halterung
+    100006: Leder
+    100008: Radio
+    100010: Rahmen
+    100012: Rahmen2
+    100014: //RootNode
+    400000: Bildschirm
+    400002: Fell
+    400004: Halterung
+    400006: Leder
+    400008: Radio
+    400010: Rahmen
+    400012: Rahmen2
+    400014: //RootNode
+    2100000: Material_002__TransistorRadio3_png
+    2100002: Material_002__TransistorRadio5_png
+    2100004: Material_002__TransistorRadio1_png
+    2100006: Material_002__TransistorRadio4_png
+    2100008: None__TransistorRadio1_png
+    2100010: Material_002__TransistorRadio2_png
+    2300000: Bildschirm
+    2300002: Fell
+    2300004: Halterung
+    2300006: Leder
+    2300008: Radio
+    2300010: Rahmen
+    2300012: Rahmen2
+    2300014: //RootNode
+    3300000: Bildschirm
+    3300002: Fell
+    3300004: Halterung
+    3300006: Leder
+    3300008: Radio
+    3300010: Rahmen
+    3300012: Rahmen2
+    3300014: //RootNode
+    4300000: Leder
+    4300002: Rahmen2
+    4300004: Rahmen
+    4300006: Fell
+    4300008: Bildschirm
+    4300010: Halterung
+    4300012: Radio
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

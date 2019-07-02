@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{b36c558b-1f23-4ee6-b438-806b79a5638c}">
+        <property name="assetPath">
+            <value>easteregg_toysqueak_4.aif</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>2.5866666666666664</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{3d6c9fb7-3f56-47ff-a9ed-235d50d6a425}</destination>
+        </relationship>
+    </object>
+</objects>

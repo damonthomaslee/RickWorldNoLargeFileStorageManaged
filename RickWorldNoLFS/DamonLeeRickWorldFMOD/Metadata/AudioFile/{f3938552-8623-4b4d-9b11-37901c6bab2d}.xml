@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{f3938552-8623-4b4d-9b11-37901c6bab2d}">
+        <property name="assetPath">
+            <value>dilemma_girl_aware.aif</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>29.626666666666665</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{3d6c9fb7-3f56-47ff-a9ed-235d50d6a425}</destination>
+        </relationship>
+    </object>
+</objects>
